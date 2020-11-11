@@ -10,4 +10,4 @@ phpunit.xml
 .idea/
 
 # Others
-src/Etc
+src/Etc/
