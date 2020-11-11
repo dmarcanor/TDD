@@ -8,3 +8,6 @@ phpunit.xml
 
 # phpstorm
 .idea/
+
+# Others
+src/Etc
