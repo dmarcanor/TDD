@@ -4,7 +4,8 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "TDD\\": "src/"
+            "TDD\\": "src/",
+            "Test\\": "tests/"
         }
     },
     "require": {
